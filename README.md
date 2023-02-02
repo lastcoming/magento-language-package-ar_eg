@@ -1,0 +1,1 @@
+# magento-language-package-ar_eg
