@@ -16,9 +16,10 @@ Now that the language package is successfully installed run:
     
     bin/magento setup:upgrade
 
-### At Backend Change Your Locale to Arabic (Egypt)
-
-![Change Your Locale to Arabic (Egypt)](backend-locale.png)
+> #### At Backend Change Your Locale to Arabic (Egypt)
+>
+> - STORES > Configuration > General > Locale Options > Locale > Arabic (Egypt)
+>
 
 ## Uninstallation
 
