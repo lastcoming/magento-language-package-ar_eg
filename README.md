@@ -18,7 +18,7 @@ Now that the language package is successfully installed run:
 
 ### At Backend Change Your Locale to Arabic (Egypt)
 
-[Change Your Locale to Arabic (Egypt)](backend-locale.png)
+![Change Your Locale to Arabic (Egypt)](backend-locale.png)
 
 ## Uninstallation
 
