@@ -1,0 +1,17 @@
+{
+    "name": "lastcoming/magento-language-package-ar_eg",
+    "description": "Arabic Language Package for Magento",
+    "version": "1.0",
+    "license": [
+        "BSD-3-Clause"
+    ],
+    "require": {
+        "magento/framework": "100.*|101.*|102.*|103.*"
+    },
+    "type": "magento2-language",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
